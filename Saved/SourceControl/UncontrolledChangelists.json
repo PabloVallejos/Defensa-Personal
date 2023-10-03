@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/2 My Personal Project Development/game dev/GameLab/2023/Defensa-Personal/Content/Levels/mainMenuWB.uasset",
+				"G:/2 My Personal Project Development/game dev/GameLab/2023/Defensa-Personal/Content/Levels/MainMenu.umap",
+				"G:/2 My Personal Project Development/game dev/GameLab/2023/Defensa-Personal/Content/Levels/MainMenuGameMode.uasset",
+				"G:/2 My Personal Project Development/game dev/GameLab/2023/Defensa-Personal/Content/Images/background_demo.uasset",
 				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/Levels/Casa.umap"
 			]
 		}
