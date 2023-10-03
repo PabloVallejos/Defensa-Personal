@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/Levels/Casa.umap"
+				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/Levels/Casa.umap",
+				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/Blueprints/Pistola.uasset",
+				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/Blueprints/Componente_Pistola.uasset",
+				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/Blueprints/Target.uasset",
+				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/Blueprints/BP_Pickup_Rifle1.uasset",
+				"E:/Trabajos/Games Unreal/DefensaPersonal/Content/Blueprints/BP_Weapon_Component1.uasset"
 			]
 		}
 	]
